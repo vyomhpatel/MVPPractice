@@ -3,7 +3,7 @@ package b12app.vyom.com.mvppractice.data.db.model;
 import android.provider.BaseColumns;
 
 public class LoginContract {
-
+//h
     public LoginContract() {}
 
     /* Inner class that defines the table contents */
